@@ -1,0 +1,12 @@
+[Variables]
+Size=72
+Margin=0
+color=245,245,245,240
+style=R
+font=Calibri
+weight=BOLD
+fontsize=18
+
+VolStep=10
+BinMax=512000000
+
